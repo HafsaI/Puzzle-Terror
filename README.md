@@ -26,8 +26,7 @@ math
 ## How to play:
 Open the .csv file along with the .py file in Visual Studio Code 2015 or later. Run the .py file and enjoy the game!
 
-Group Member Names:
-
+**Group Member Names:**
 Haadiya Jamil
 Hafsa Irfan
 Maham Tabassum
